@@ -240,4 +240,4 @@ plt.legend()
 ![Screenshot 2024-10-26 140001](https://github.com/user-attachments/assets/3352f81f-60d7-4100-a410-2152cb15f151)
 
 # Result:
- Include your result here
+ Thus, The implementation of data visualization using matplotlib has been successfully verified.
